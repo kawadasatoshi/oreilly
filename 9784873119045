@@ -1,0 +1,7 @@
+{
+    "title": "プログラミングTypeScript ――スケールするJavaScriptアプリケーション開発",
+    "description": "プログラミング言語TypeScriptの解説書。TypeScriptの型に関する基礎的な内容からその応用、エラー処理の手法、非同期プログラミング、各種フレームワークの利用法、既存のJavaScriptプロジェクトのTypeScript移行の方法まで、言語全般を総合的に解説します。本書全体を通じて、TypeScriptの洗練された型システムを最大限活用するために、コードをどのように記述すべきか、なぜそうすべきかを学べます。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-904-5.gif",
+    "book_id": "9784873119045",
+    "url": "https://www.oreilly.co.jp/books/9784873119045/"
+}
