@@ -1,0 +1,7 @@
+{
+    "title": "Hibernate",
+    "description": "JavaのO/R（オブジェクト/リレーショナル）マッピングツールHibernateの解説書。Hibernateは軽量プログラミングの観点から設計されたツールで、複雑化してしまったJava、特にJ2EEの開発プロセスをシンプルにしてくれる期待の星として注目度抜群です。本書はこの新しいテクノロジのエッセンスをコンパクトにまとめています。今まで日本語ドキュメントが存在せず、多くのエンジニアが待ち望んでいた一冊です。",
+    "img": "https://www.oreilly.co.jp/books/images/picture4-87311-215-X.gif",
+    "book_id": "487311215X",
+    "url": "https://www.oreilly.co.jp/books/487311215X/"
+}
