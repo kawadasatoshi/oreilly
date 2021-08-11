@@ -1,0 +1,7 @@
+{
+    "title": "不正アクセス調査ガイド――rootkitの検出とTCTの使い方",
+    "description": "本書はインターネットの普及にともない加速度的に増加している不正アクセスによる被害とその対処法を解説する初の実践的ガイドです。不正アクセスを受ける前の事前対処方法から、システム検査ツールであるTCT（The Coroner's Toolkit）を使ったrootkitの検出方法など、実際に不正アクセスを受けたかどうかの確認やその処理・復旧の方法について実践的な例を使って詳細に解説しています。",
+    "img": "https://www.oreilly.co.jp/books/images/picture4-87311-079-3.gif",
+    "book_id": "4873110793",
+    "url": "https://www.oreilly.co.jp/books/4873110793/"
+}
