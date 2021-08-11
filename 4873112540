@@ -1,0 +1,7 @@
+{
+    "title": "入門 bash 第3版",
+    "description": "前版の『入門 bash 第2版』発行から7年が経ち、リビジョン/バージョンアップを繰り返してbashの機能も大きく強化されました。今ではLinux/Unixユーザーだけでなく、Cygwinを利用するWindowsユーザー、Mac OS Xユーザーもbashを使うようになりました。第3版の本書では、多くのLinuxディストリビューションで標準の2.05bに対応したまま、最新バージョンの3.0で利用できる新機能ついても解説します。bash-2.0以降に追加されたオプションを網羅する待望の改訂版。",
+    "img": "https://www.oreilly.co.jp/books/images/picture4-87311-254-0.gif",
+    "book_id": "4873112540",
+    "url": "https://www.oreilly.co.jp/books/4873112540/"
+}
