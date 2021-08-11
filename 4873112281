@@ -1,0 +1,7 @@
+{
+    "title": "Knoppix Hacks――カスタマイズとシステム管理のテクニック",
+    "description": "KnoppixはDebian GNU/LinuxをベースにしたLinuxディストリビューションです。その特徴は、ハードディスクにインストールせずにCD-ROMから起動して利用できることと、強力なハードウェアの自動認識機能です。初心者のためのLinux“お試し版”と捉えられることが多いKnoppixですが、その実力は熟練のシステム管理者が使ってこそ発揮されます。本書『Knoppix Hacks』は、システム管理のツールとしてのKnoppixの使用法を詳しく解説し、Knoppixの力を最大限に引き出します。その内容は、緊急用サーバ（ファイルサーバ、Webサーバ）の構築、ネットワークセキュリティ監査の方法、破損したWindows/Linuxシステムの修復、パーティションのサイズ変更、ファイルの復旧、パスワードのリセット、ウイルススキャンなど。KnoppixをカスタマイズしてオリジナルのCDブータブルLinuxを作成する方法も詳しく解説します。付録CD-ROMにはKnoppix 3.8日本語版を収録しました。\r\n",
+    "img": "https://www.oreilly.co.jp/books/images/picture4-87311-228-1.gif",
+    "book_id": "4873112281",
+    "url": "https://www.oreilly.co.jp/books/4873112281/"
+}
