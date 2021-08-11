@@ -1,0 +1,7 @@
+{
+    "title": "ハンズオンJavaScript",
+    "description": "JavaScriptの入門書。対象読者は、完全なプログラミング初心者からプログラミングの初級者です。また、中級以上の方のクライアントサイドJavaScriptの知識の更新にも利用できます。本書ではChrome DevToolsのコンソールにコマンドを入力してその動作を確認しながら、JavaScriptの基本や多種多様なWeb APIをひとつひとつハンズオン形式で学びます。また、コードの背景にある設計思想や、プログラムの挙動の仕組みについてもしっかり掘り下げます。本書のゴールは、読者がJavaScriptの全体像を掴み、業務の内容や興味に応じて必要な知識を自分自身で探求できるようになることです。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-922-9.gif",
+    "book_id": "9784873119229",
+    "url": "https://www.oreilly.co.jp/books/9784873119229/"
+}
