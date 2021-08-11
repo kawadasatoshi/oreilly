@@ -1,0 +1,7 @@
+{
+    "title": "RADIUS――ユーザ認証セキュリティプロトコル",
+    "description": "RADIUS（Remote Authentication Dial In User Service）は、元々は、個人のユーザがダイヤルアップ接続するときの個人認証の為の機能として開発されました。日本では、商用インターネットサービスが開始された頃から用いられており、技術的には10年以上の歴史があります。現在、RADIUSは、認証エンジンとしてほとんどのユーザ認証サービスに活用されており、その活用範囲は、携帯メールサービス、無線LAN（IEEE 802.1X）、プライベートネットワーク、ADSL等の常時接続の着信装置など多岐にわたります。本書は、その「縁の下の力持ち」的なプロトコルを解説した類のない解説書です。",
+    "img": "https://www.oreilly.co.jp/books/images/picture4-87311-147-1.gif",
+    "book_id": "4873111471",
+    "url": "https://www.oreilly.co.jp/books/4873111471/"
+}
