@@ -1,0 +1,7 @@
+{
+    "title": "Windows PowerShellクックブック",
+    "description": "本書はPowerShellを使ってさまざまな処理を行うための方法を解説します。「PowerShellの基本」「一般的なタスク」「管理者タスク」という3部構成で、様々な場面で発生しうる実際的な問題を260例集め、それぞれに解決法を示します。\r\n「一般的なタスク」では、対話的なシェルの利用法、パイプラインの基礎とオブジェクトの概念、スクリプト言語としての特徴などを解説します。「管理者タスク」では、実践的なレシピを網羅。システム管理として、Windowsレジストリ、イベントログ、プロセスなど管理方法を扱い、エンタープライズ管理として、WMI、Active Directory、その他エンタープライズ指向のタスクなどを扱います。またExchange Server 2007とOperations Manager 2007管理者のためのタスクもカバーします。\r\nPowerShell開発チームに初期から携ってきた著者が執筆した本書は、PowerShellをマスターしたい技術者必携の一冊です。\r\n",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-382-1.gif",
+    "book_id": "9784873113821",
+    "url": "https://www.oreilly.co.jp/books/9784873113821/"
+}
