@@ -1,0 +1,7 @@
+{
+    "title": "GNU Make 第3版",
+    "description": "makeは、Unixのプログラム開発や各種ソフトウェアのインストールに必須の基 本ツールです。本書ではmakeの概念、基本操作、ルールの文法、変数とマク ロ、関数、大規模プロジェクトで利用する方法、Windows環境での注意など、基 礎から高度なテクニックまでを詳しく解説しています。makeの入門書として初 心者に役に立つのはもちろんのこと、makeのリファレンスとして、中、上級者 にとっても非常に有益な一冊です。",
+    "img": "https://www.oreilly.co.jp/books/images/picture4-87311-269-9.gif",
+    "book_id": "4873112699",
+    "url": "https://www.oreilly.co.jp/books/4873112699/"
+}
