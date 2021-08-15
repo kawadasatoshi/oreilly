@@ -1,0 +1,7 @@
+{
+    "title": "Jakarta Strutsクックブック",
+    "description": "StrutsはJavaベースのWebアプリケーションを構築するための最も人気の高いフレームワークです。本書はStrutsを使う際に直面する問題を100例以上集め、わかりやすいレシピ集というスタイルで解説しています。\r\n\r\n本書では、Strutsを一通り理解し、使いこなしている開発者に向けて、実際のアプリケーション開発においてさらにStrutsを活用するためのさまざまな手段を提供しています。JavaScript、JSTL、サーブレットフィルター、ORマッピングツールなどをStrutsと組み合わせて使用する方法を詳しく説明しています。Strutsの初心者を脱却し、さらにプロとしてStrutsを活用したい開発者にとって本書の内容は役立つでしょう。　　―監訳者まえがきより\r\n\r\n",
+    "img": "https://www.oreilly.co.jp/books/images/picture4-87311-273-7.gif",
+    "book_id": "4873112737",
+    "url": "https://www.oreilly.co.jp/books/4873112737/"
+}
