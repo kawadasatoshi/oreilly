@@ -1,0 +1,7 @@
+{
+    "title": "Windowsサーバークックブック――ネットワーク管理者のためのレシピ集",
+    "description": "本書はWindows Serverを運用管理する上で、「こんなことをしたいときにはどうすればいい？」という問題に解法を示すレシピ集です。Windows Serverでの日常の管理作業のTips集を探している、あるいはWindows Serverをより使いこなすために管理機能を深く知りたいユーザにとって最適な書籍です。またサーバーの運用管理の経験があり、行うべき管理作業はわかっているが、WindowsServerではどうすればよいのか学びたいユーザにも役立つでしょう。解法ではGUI、コマンドライン、スクリプトという3種類の方法が併記されているため、さまざまな管理方法を知ることができます。Windows Server 2003（Release2）、Windows Server 2000対応。",
+    "img": "https://www.oreilly.co.jp/books/images/picture4-87311-285-0.gif",
+    "book_id": "4873112850",
+    "url": "https://www.oreilly.co.jp/books/4873112850/"
+}
