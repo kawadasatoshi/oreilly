@@ -1,0 +1,7 @@
+{
+    "title": "Asterisk――テレフォニーの未来",
+    "description": "本書は、電話システムを変革する技術として注目されているオープンソースのPBX（構内電話交換機）ソフトウエアAsteriskの解説書です。インストールと初期設定、Asteriskの心臓部であるダイヤルプランなどAsteriskを利用するための基礎を詳しく解説。またPerlやPHPなどを使ってAsteriskのPBXに機能を追加 するAsteriskゲートウェイインタフェース、テキスト読み上げエンジンFestival、DUNDiの活用など、上級者のためのトピックも網羅。巻末には実用的なリファレンス情報も収録しています。大きな可能性を秘めるAsterisk入門書の決定版です。",
+    "img": "https://www.oreilly.co.jp/books/images/picture4-87311-289-3.gif",
+    "book_id": "4873112893",
+    "url": "https://www.oreilly.co.jp/books/4873112893/"
+}
