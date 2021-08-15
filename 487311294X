@@ -1,0 +1,7 @@
+{
+    "title": "初めてのC# 第2版",
+    "description": "プログラミング言語としてのC#を基本から学べる入門書。WindowsアプリケーションやWebアプリケーションの作り方を単に紹介するのではなく、C#を使ってプログラミングの基礎を丁寧に解説します。デバッグや例外、ジェネリック、デリゲートなどについては章を立てて平易な表現で丁寧に解説しているのでプログラミングが未経験という読者にも好適です。各章末に用意した練習問題を使って理解度をチェックしながら学習できます。C# 2.0およびVisual Studio 2005（Visual C# 2005 Express Edition）対応。",
+    "img": "https://www.oreilly.co.jp/books/images/picture4-87311-294-X.gif",
+    "book_id": "487311294X",
+    "url": "https://www.oreilly.co.jp/books/487311294X/"
+}
