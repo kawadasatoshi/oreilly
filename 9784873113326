@@ -1,0 +1,7 @@
+{
+    "title": "Ajax on Rails",
+    "description": "今日のWeb開発において最も重要な2つのアプローチである「Ajax」と「Ruby on Rails」を使って、動的でインタラクティブなWebアプリケーションの構築方法について学びます。読者対象は、少なくともAjaxかRailsのどちらか片方についての知識を有する中上級のWeb開発者です。Railsを使い始めるにあたってのTIPS、実践的なRails/Ajaxアプリケーションの例、Ajaxユーザビリティのための最新の設計事例などから、現在開発中のアプリケーションをAjax化するための知識を得ることができます。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-332-6.gif",
+    "book_id": "9784873113326",
+    "url": "https://www.oreilly.co.jp/books/9784873113326/"
+}
