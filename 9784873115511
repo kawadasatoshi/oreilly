@@ -1,0 +1,7 @@
+{
+    "title": "MongoDB & PHP",
+    "description": "NoSQLデータベースMongoDBをPHPと組み合わせて使う方法について概説した書籍です。基本的なCRUD操作からはじまり、組み込みの正規表現エンジン、アグリゲーション、findAndModify、GridFS、レプリケーション、シャーディングといった特徴的な機能までを紹介しています。巻末にはMongoDBとPHPを組み合わせて用いる際に便利なライブラリとツールを紹介。なお本書はEbookのみの販売となります。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-551-1.jpeg",
+    "book_id": "9784873115511",
+    "url": "https://www.oreilly.co.jp/books/9784873115511/"
+}
