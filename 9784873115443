@@ -1,0 +1,7 @@
+{
+    "title": "MongoDB & Python",
+    "description": "NoSQLデータベースMongoDBをPythonと組み合わせて使う方法を概説した書籍です。Python 2.7とpymongoを利用してMongoDBのさまざまな機能にアクセスします。MongoDBへの接続、データの読み書き、削除といった基本的なものから、サブドキュメントの利用、位置情報の操作、アップサートなどMongoDBに特化した機能までを紹介します。またPylons、Pyramid、DjangoとMongoDBを組み合わせて利用するための基本的な情報も掲載しています。なお本書はEbook版のみの販売となります。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-544-3.gif",
+    "book_id": "9784873115443",
+    "url": "https://www.oreilly.co.jp/books/9784873115443/"
+}
