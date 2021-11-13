@@ -1,0 +1,7 @@
+{
+    "title": "プログラミングGauche",
+    "description": "Gauche（ゴーシュ）は、プログラミング言語Schemeの処理系のなかでもきわめて実用的で軽快な処理系です。豊富なライブラリが用意され、スクリプト言語処理系として手軽に扱うことができます。本書は、Schemeの初心者を対象に、Gaucheの基礎からプログラミングの実際までを詳しく解説。Gaucheの開発環境でプログラマがどのように考え、作業していくのかを、順を追って理解できます。本書によって、SchemeやGaucheのコードを読み解く準備ができ、実用的なGaucheプログラミングへの第一歩を踏み出せることでしょう。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-348-7.gif",
+    "book_id": "9784873113487",
+    "url": "https://www.oreilly.co.jp/books/9784873113487/"
+}
