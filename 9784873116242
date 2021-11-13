@@ -1,0 +1,7 @@
+{
+    "title": "NFC Hacks――プロが教えるテクニック & ツール",
+    "description": "NFC（Near Field Communication）は国際標準規格として承認されている近距離無線通信技術です。本書は、NFCを利用するための基本テクニックと、NFCを活用するためのアイデアを、実装例とともに解説しています。NFCの基礎知識から、NFCの規格についての理解、具体的な実装はAndroidやWindows環境について解説し、知識と実装の両面からNFCについて幅広く取り上げています。NFCの活用方法はアイディアの数だけあります。NFCに関する知識を得ることは、単純にその知識を習得することだけではなく、新たなアイディアの発見にも役立ちます。本書で初めてNFCを学ぼうとする初学者からNFCに関わる開発者まで、NFCに取り組む開発者必携です。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-624-2.gif",
+    "book_id": "9784873116242",
+    "url": "https://www.oreilly.co.jp/books/9784873116242/"
+}
