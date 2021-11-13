@@ -1,0 +1,7 @@
+{
+    "title": "Flex 4.5によるAndroidアプリケーション開発",
+    "description": "ActionScriptの知識を用いてモバイルアプリケーションを作成するための方法を解説した書籍です。Flex 4.5フレームワークを使い、簡単なAdobe AIRアプリケーションの作成から、GPSやカメラ、ギャラリー、加速度メータ、マルチタッチ画面などの機能を利用する方法、Fileクラス、SQLiteデータベース、新しいActionScriptクラスであるStageWebViewを活用したりする方法を解説します。本書はEbook版のみの販売となります。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-518-4.gif",
+    "book_id": "9784873115184",
+    "url": "https://www.oreilly.co.jp/books/9784873115184/"
+}
