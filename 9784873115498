@@ -1,0 +1,7 @@
+{
+    "title": "PDF構造解説",
+    "description": "PDFの仕組み、構造を詳しく解説。PDFの技術的背景が理解でき、PDFをより柔軟かつ有効に活用する上で役に立つヒントを提供しています。日本語版独自に、新たに「第6.5章　日本語の取り扱い」を、さらにJavaScriptを使ってPDFを操作する方法を紹介する「付録A　JavaScriptの埋め込み」と、電子書籍としてPDFを活用する上で役に立つ「付録B　電子書籍に便利なツール集」を追加。ロングセラー『PDF Hacks』のコンパニオンブックとして、結果をPDFに出力するアプリケーション開発の担当者、PDFについてより深く知りたいユーザ等に最適の一冊です。\r\n",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-549-8.gif",
+    "book_id": "9784873115498",
+    "url": "https://www.oreilly.co.jp/books/9784873115498/"
+}
