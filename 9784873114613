@@ -1,0 +1,7 @@
+{
+    "title": "iPhoneアプリケーション開発ガイド――HTML+CSS+JavaScriptによる開発手法",
+    "description": "Objective-Cを使わなくてもWebアプリケーション開発の標準技術でiPhoneアプリケーションを開発できます。本書ではパソコン向けWebアプリケーションをスタート地点に、CSSのカスタマイズ、jQueryの利用、jQTouchを利用した高度なアニメーション、PhoneGapを使ってネイティブアプリケーション化することでiPhone固有の機能を使う方法、そしてApp Storeへの登録に至るまで、HTML＋CSS＋JavaScriptによるiPhoneアプリケーションの開発プロセスを網羅的に解説します。日本語版では、サードパーティ製フレームワークの紹介とWebアプリケーションの移植方法について加筆しました。\n\r\n監訳者のページ「JavaScriptでiPhoneアプリを楽々作成」（HTMLとJSで作る時計アプリ）。\r\n監訳者が付録Bで紹介したiPhone向けWebアプリケーションはこちら（クイズ、Processing）\n",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-461-3.gif",
+    "book_id": "9784873114613",
+    "url": "https://www.oreilly.co.jp/books/9784873114613/"
+}
