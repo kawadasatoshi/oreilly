@@ -1,0 +1,7 @@
+{
+    "title": "DNS & BIND on IPv6――次世代インターネットのDNS",
+    "description": "広く使われているDNSサーバソフトウェアBINDを、IPv6ネットワーク上で利用するための設定方法などについて、『DNS & BIND』の著者、Cricket Liuがコンパクトにまとめた書籍です。正引き、逆引きを扱うためにDNSがどう拡張されたのか。またIPv6ネットワーク上でBINDネームサーバーを動作させるための設定方法、IPv6の正引きと逆引きに関する問題のトラブルシューティングについても解説。さらに、DNSベースの移行技術であるDNS64についても説明されています。なお本書はEbookのみの販売となります。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-562-7.gif",
+    "book_id": "9784873115627",
+    "url": "https://www.oreilly.co.jp/books/9784873115627/"
+}
