@@ -1,0 +1,7 @@
+{
+    "title": "実践 jQuery Mobile",
+    "description": "jQuery Mobileによるモバイルアプリ開発の入門書。実践的な例を通して、jQuery Mobileフレームワークで用意されているUIコンポーネントを使ったマルチプラットフォーム対応のモバイルアプリ開発について学びます。本書を読み終える頃にはjQuery MobileとセマンティックなHTML5コードによるモバイルアプリ開発手法を身につけ、さまざまなスマートフォンやタブレットに対応するAjaxベースのレスポンシブなウェブアプリを作れるようになっているでしょう。対象読者は、iPhoneやAndroidといったスマートフォンだけでなく、iPadやKindleでも動くモバイルアプリを作りたいと考えている開発者です。日本語版ではjQuery Mobileに導入された新しいウィジェット「ポップアップ」についての解説を巻末付録として追加しました。jQuery Mobile 1.2対応。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-592-4.gif",
+    "book_id": "9784873115924",
+    "url": "https://www.oreilly.co.jp/books/9784873115924/"
+}
