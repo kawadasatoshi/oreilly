@@ -1,0 +1,7 @@
+{
+    "title": "メンテナブルJavaScript――読みやすく保守しやすいJavaScriptコードのための作法",
+    "description": "JavaScriptのカリスマ的ハッカーが、「読みやすくメンテナンス性の高いJavaScriptコード」という観点から書いた一冊。JavaScriptを知り尽くした著者が自らの開発経験を通して身に付けた、チームで開発する上で、誰もが読め、そしてメンテナンスしやすいコードを書くための規約、プログラミングプラクティス、環境についてのTipsをまとめたものです。多くのJavaScriptプログラマ、特にチームで開発を行い、効率の良い開発方法を模索している開発者にとって貴重な内容です。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-610-5.gif",
+    "book_id": "9784873116105",
+    "url": "https://www.oreilly.co.jp/books/9784873116105/"
+}
