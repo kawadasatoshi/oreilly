@@ -1,0 +1,7 @@
+{
+    "title": "RESTful Webサービス",
+    "description": "本書は、RESTというWebのアーキテクチャスタイルについて解説する初めての本格的な書籍である。RESTFulなアーキテクチャの概念、RESTfulなサービスの特徴について述べ、RESTful Webサービスを設計するための基本的なルールであるリソース指向アーキテクチャについて解説する。現実のRESTfulなサービス、AmazonのS3、AtomPub、地図アプリケーションなどを例に挙げ、さらに、del.icio.usのAPIなど、RESTの制約を満たしていないが、よく知られているサービスを取り上げ、それらをRESTfulに再設計する方法も紹介する。RESTの概念から実装まで、深い知識が得られる本書はWeb開発者必携の一冊である。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-353-1.gif",
+    "book_id": "9784873113531",
+    "url": "https://www.oreilly.co.jp/books/9784873113531/"
+}
