@@ -1,0 +1,7 @@
+{
+    "title": "MongoDBイン・アクション",
+    "description": "本書はMongoDBを学びたいアプリケーション開発者やDBAに向けて、MongoDBの基礎から応用までを包括的に解説する書籍です。MongoDBの機能やユースケースの概要など基本的な事柄から、ドキュメント指向データやクエリと集計など、MongoDB APIの詳細について、さらにパフォーマンスやトラブルシューティングなど高度なトピックまで豊富なサンプルでわかりやすく解説します。付録ではデザインパターンも紹介。コードはJavaScriptとRubyで書かれていますが、PHP、Java、C++での利用についても触れています。MongoDBを使いこなしたいすべてのエンジニア必携の一冊です。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-590-0.gif",
+    "book_id": "9784873115900",
+    "url": "https://www.oreilly.co.jp/books/9784873115900/"
+}
