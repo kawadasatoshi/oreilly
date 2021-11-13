@@ -1,0 +1,7 @@
+{
+    "title": "Amazon Web Servicesプログラミング――APIの基礎からElastic Beanstalkの利用まで",
+    "description": "本書は、既存のWebアプリケーションのAWS（Amazon Web Services）への移植に始まり、AWSの機能を活かしてアプリケーションのスケーラビリティをはるかに高める手法や、運用に必要な技術までを幅広く解説します。本書を読めば、ソフトウェアでプログラミング可能なインフラストラクチャである、AWSを操る楽しさを知ることができるでしょう。\r\nさらに、JavaベースのWebアプリケーションを容易にAWS上で構成できるElastic Beanstalkの活用方法についても詳細に解説。日本語版独自の付録として、AWS上でのWindowsインスタンスの活用、そして耐障害性に関する情報などを追加しました。AWSについて、基礎から実践までを知りたいエンジニア必携の一冊です。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-581-8.gif",
+    "book_id": "9784873115818",
+    "url": "https://www.oreilly.co.jp/books/9784873115818/"
+}
