@@ -1,0 +1,7 @@
+{
+    "title": "Apache Sqoop クックブック",
+    "description": "小さなテストデータセットから巨大な企業データウェアハウスまで、既存のSQLテーブルに蓄積された情報をHDFS（Hadoop Distributed Filesystem）にインポートするためのツールApache Sqoopの使い方を、実例に沿ったレシピとして紹介する書籍です。\r\nSqoopの導入、さまざまな形式のデータインポート、エクスポートから、Oozie、Hive、HBaseなどと組み合わせて利用する方法などのレシピを収録しています。Hadoopファミリを用いたソフトウェアシステムを構築、運用する上で手元に置いておきたい1冊となるでしょう。なお本書はEbook版のみの提供となります。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-662-4.gif",
+    "book_id": "9784873116624",
+    "url": "https://www.oreilly.co.jp/books/9784873116624/"
+}
