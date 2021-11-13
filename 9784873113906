@@ -1,0 +1,7 @@
+{
+    "title": "DNS & BIND 第5版",
+    "description": "ネットワーク管理者必携の定番書籍『DNS & BIND』の改訂版。第5版の本書では、BIND 8.4.7だけでなくBIND 9シリーズの最新版BIND 9.5.0-P1にも対応しました。BIND 9.3.2以降ではセキュリティ面とIPv6対応が強化されたほか、国際化ドメイン名、ENUM（electronic numbering）、SPF（Sender Policy Framework）といった新しい機能が追加されました。日々の仕事でDNSに触れることが多い管理者にも、インターネットについてもっと詳しくなってその仕組み理解したいと思っているエンドユーザにもお勧めです",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-390-6.gif",
+    "book_id": "9784873113906",
+    "url": "https://www.oreilly.co.jp/books/9784873113906/"
+}
