@@ -1,0 +1,7 @@
+{
+    "title": "Androidアプリケーション開発ガイド――HTML＋CSS＋JavaScriptによる開発手法",
+    "description": "Javaを使わなくてもWebアプリケーション開発の標準技術でAndroidアプリケーションを開発できます。本書ではパソコン向けWebアプリケーションをスタート地点に、CSSのカスタマイズ、jQueryの利用、jQTouchを利用した高度なアニメーション、PhoneGapを使ってネイティブアプリケーション化することでAndroid固有の機能を使う方法、そしてAndroid Marketへの登録に至るまで、HTML＋CSS＋JavaScriptによるAndroidアプリケーションの開発プロセスを網羅的に解説します。日本語版では、Titanium Mobile、Web技術で作る初めてのAndroidゲーム、入出力デバイスとの連携手法について加筆しました。\n\r\n監訳者が付録Cで紹介した文字列捜しゲーム\n\n",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-486-6.gif",
+    "book_id": "9784873114866",
+    "url": "https://www.oreilly.co.jp/books/9784873114866/"
+}
