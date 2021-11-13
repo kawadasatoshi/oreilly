@@ -1,0 +1,7 @@
+{
+    "title": "実践 Vagrant",
+    "description": "本書は、Vagrantの使い方からプラグインの開発方法までを解説する書籍です。Vagrantの概要やマシン設定から、プロビジョニング、ネットワーク、ボックス、さらにはプラグインによる拡張まで、Vagrantを使う際に必要な事柄を網羅しています。さらに日本語版では、吉羽龍太郎氏による「Vagrantプラグイン」と「Packer」、伊藤直也氏による「VagrantとAmazon EC2」についての記事を加筆。Vagrantの作者であるMitchell Hashimoto氏によって書かれた本書は、開発者必読の一冊です。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-665-5.gif",
+    "book_id": "9784873116655",
+    "url": "https://www.oreilly.co.jp/books/9784873116655/"
+}
