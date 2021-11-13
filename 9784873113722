@@ -1,0 +1,7 @@
+{
+    "title": "Prototype & script.aculo.us――JavaScriptライブラリによるAjaxアプリケーション開発",
+    "description": "prototype.jsとscript.aculo.usが持つ豊かな機能を実用的なサンプルコードを多用しながら解説します。初心者はライブラリの使い方だけでなく、PHP、Ruby、Ruby on Railsといったサーバサイドの定番技術と組み合わせて使う方法も学ぶことができます。パワーユーザーであればライブラリの設計哲学を学ぶとともに、自分のニーズに合わせてライブラリを拡張する方法や、ライブラリ開発に貢献する方法についての理解を深めることもできるでしょう。prototype.js 1.6、script.aculo.us 1.8対応。\n\nサンプルPDF\n\r\n●推薦の言葉（800KB）\r\n●賞賛の声（800MB）\r\n●まえがき（1MB）\r\n●１章　Prototypeを理解する（1.3MB）\r\n●２章　$()関数のクイックヘルプ（1MB）\r\n●12章　script.aculo.usを理解する（900KB）\r\n●13章　視覚的効果（1.4MB）\n\n\n",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-372-2.gif",
+    "book_id": "9784873113722",
+    "url": "https://www.oreilly.co.jp/books/9784873113722/"
+}
