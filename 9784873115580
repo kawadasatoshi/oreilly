@@ -1,0 +1,7 @@
+{
+    "title": "OAuth 2.0をはじめよう",
+    "description": "本書は、Webアプリケーションのためのユーザー認証プロトコルであるOAuth 2.0の概要を紹介する書籍です。基礎となるOAuth誕生の背景や用語の解説から、\r\nサーバサイドWebアプリケーションフロー、クライアントサイドWebアプリケーションフロー、リソース所有者パスワードクレデンシャルフロー、クライアントクレデンシャルフローなどの各認証フロー、またモバイルアプリケーションからユーザデータへのアクセスや、次世代の認可・認証技術OpenID Connect認証に関する内容を概説しています（OpenID ConnectについてはOpenID Connect Basic Client Profile 1.0 - draft 15に基づいています）。なお本書はEbookのみの販売となります。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-558-0.gif",
+    "book_id": "9784873115580",
+    "url": "https://www.oreilly.co.jp/books/9784873115580/"
+}
