@@ -1,0 +1,7 @@
+{
+    "title": "Firefox Hacks Rebooted――Mozillaテクノロジ徹底活用テクニック",
+    "description": "根本から見直されたUI、同期サービスなどの新機能、iPhoneアプリの紹介はもちろん、Firefoxを別のブラウザへと変えてしまう超強力アドオンについても開発者自身が丁寧に解説。新しいAdd-on SDKを用いた拡張機能開発チュートリアル、真の拡張機能ハッカーだけが知る実践的開発テクニックに加え、HTML5、CSS3、SVG、次世代JavaScriptやデバイスセンサー系APIなど、Webテクノロジも広くカバー。Firefoxのすべてが詰まった本書を手に、ユーザーとして、Web開発者として、拡張機能開発者として、Firefoxを徹底的に使い倒そう。\n\n著者によるサポートページ\n\nサンプルPDF\r\n● 1章：Hack #8 Personasで実現する着せ替えブラウザ\r\n● 2章：Hack #14 VimperatorとKeySnailの設計上の違い\r\n● 3章：Hack #18 拡張機能の開発（基礎編）\r\n● 4章：Hack #34 e10sにおけるプロセス間通信の基本\r\n● 5章：Hack #55 コンテンツセキュリティポリシー\r\n● 6章：Hack #60 js-ctypesとXPConnectの違いを理解する\n\n",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-497-2.gif",
+    "book_id": "9784873114972",
+    "url": "https://www.oreilly.co.jp/books/9784873114972/"
+}
