@@ -1,0 +1,7 @@
+{
+    "title": "jQuery Mobile",
+    "description": "モバイルWebアプリ開発用のJavaScriptライブラリjQuery Mobileの解説書。jQuery Mobileの仕組みと使い方をチュートリアル形式で解説します。jQuery Mobileはスマートフォンやタブレット型PC向けのタッチアプリに最適化されたWebフレームワークです。jQuery Mobileを使えば、さまざまなデバイスで共通の表示と振る舞いをするモバイルWebアプリを簡単に開発できます。本書ではHTML5/CSS3/JavaScriptのコード例と画面例を使ってjQuery Mobileの使い方をステップバイステップで解説します。日本語版ではjQuery Mobileを使う上で知っておくと役に立つTIPSとjQueryの基本構文について加筆しました。jQuery Mobile 1.0対応。\n\n付録Bのコード\r\n● 「ボタン、コンテンツ、リストビューのサンプル」\n\n",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-526-9.gif",
+    "book_id": "9784873115269",
+    "url": "https://www.oreilly.co.jp/books/9784873115269/"
+}
