@@ -1,0 +1,7 @@
+{
+    "title": "JavaMail API",
+    "description": "JavaMail APIはJavaの標準拡張であり、電子メールクライアント用のクラスライブラリを提供します。SMTP、POP3、IMAP、NNTPなどのプロトコルをサポートし、メールの送受信を行うJavaプログラムを簡単に書くことができます。\r\n本書は、このJavaMail APIについて概説した書籍です。メールの送受信、サーバとの認証、アドレスの扱いやマルチパートメッセージなど、Javaプログラムからメールを扱う上での基本的な要素を解説しています。\r\nまた、日本語版には日本 GlassFish ユーザー会の蓮沼賢志氏による「JavaMail APIで日本語を扱う際に気を付けること」を収録。\r\nなお本書はEbookのみの提供となります。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-663-1.gif",
+    "book_id": "9784873116631",
+    "url": "https://www.oreilly.co.jp/books/9784873116631/"
+}
