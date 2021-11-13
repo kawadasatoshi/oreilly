@@ -1,0 +1,7 @@
+{
+    "title": "HTML5 ジオロケーション――Webアプリケーションに地理情報をもたらす",
+    "description": "本書はデバイスの位置情報にアクセスするジオロケーション技術について解説する書籍です。ジオロケーションの歴史や関連知識、またW3C Geolocation APIなどのAPIを用いて位置情報を取得する方法、さらにはGoogle MapsやArcGIS JavaScript APIを用いて位置情報を地図上に表示する方法などを紹介します。\r\nHTML5を用いて、Webブラウザやモバイルデバイス向けの位置情報アプリケーションを構築する際に必要となる基礎知識をコンパクトに学ぶことができるでしょう。なお本書はEbook版のみの販売となります。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-523-8.gif",
+    "book_id": "9784873115238",
+    "url": "https://www.oreilly.co.jp/books/9784873115238/"
+}
