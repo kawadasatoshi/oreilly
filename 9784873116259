@@ -1,0 +1,7 @@
+{
+    "title": "XML & InDesign",
+    "description": "本書は、AdobeのDTPソフトウェアInDesignとXMLを組み合わせた、組版および文書形式変換について概説した書籍です。XMLを導入する価値、XMLのインポート/エクスポート、表の取り扱い等について紹介します。大学のコースカタログ（授業要覧）のコンテンツを例に、さまざまに加工をしながら、コース（授業）の内容説明、表などのコンテンツを作成する方法を学びます。XML構造、DTD、およびInDesignの名前空間の基本原則は、読者がXMLプロセスを開発する助けになるでしょう。なお本書はEbookのみの販売となります。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-625-9.gif",
+    "book_id": "9784873116259",
+    "url": "https://www.oreilly.co.jp/books/9784873116259/"
+}
