@@ -1,0 +1,7 @@
+{
+    "title": "Spring Integration",
+    "description": "Javaによるメッセージベースアーキテクチャのエンタープライズ・サービス・バス実装「Spring Integration」について解説する書籍です。アプリケーション統合の基本戦略から、メッセージチャネル、エンドポイント、トランスフォーマ、フローコンポーネント、アダプタという、フレークワークを構成する各要素について概説します。Spring Integrationの初学者に加え、EBSの基本的な概要を知りたい読者にも役立つでしょう。なお本書はEbookのみの販売となります。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-577-1.gif",
+    "book_id": "9784873115771",
+    "url": "https://www.oreilly.co.jp/books/9784873115771/"
+}
