@@ -1,0 +1,7 @@
+{
+    "title": "スケーリングMongoDB",
+    "description": "スケーラブルかつハイパフォーマンスなNoSQLデータベースであるMongoDBに関する書籍です。本書では、アプリケーションが直面するデータの増大に対応するため、MongoDBクラスタを構築するための知識を紹介します。シャーディングによるMongoDBクラスタの構築方法、クラスタを効率よく用いるデータ構造の選択方法、監視やバックアップなどの管理方法までを解説します。本書はEbook版のみの販売となります。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-522-1.gif",
+    "book_id": "9784873115221",
+    "url": "https://www.oreilly.co.jp/books/9784873115221/"
+}
