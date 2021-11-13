@@ -1,0 +1,7 @@
+{
+    "title": "入門 ClojureScript",
+    "description": "本書は、ClojureScriptを使ったクライアントサイドプログラミングの基礎を概説する書籍です。プログラミング言語Clojureとほぼ同じ\r\n文法から、Google Closure Libraryを用いて最適化されたJavaScriptへと変換できる、ClojureScriptの魅力を紹介します。開発環境のインストール、コンパイルの方法、基本的な文法、ライブラリの呼び出し方から、関数型プログラミングの手法など、限られた内容の中でClojureScriptの魅力をお伝えします。なお本書はEbookのみの販売となります。\r\n",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-612-9.gif",
+    "book_id": "9784873116129",
+    "url": "https://www.oreilly.co.jp/books/9784873116129/"
+}
