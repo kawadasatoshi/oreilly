@@ -1,0 +1,7 @@
+{
+    "title": "JavaScriptグラフィックス――ゲーム・スマートフォン・ウェブで使う最新テクニック",
+    "description": "Webテクノロジーが進化したことによりJavaScriptグラフィックスを使ったリッチなWebアプリケーション開発が可能になりました。本書ではJavaScriptによる最新のグラフィックスプログラミングについて解説します。ゲームやDHTMLエフェクト、HTML5 Canvasなどの実例を通して、高性能なJavaScriptグラフィックスの実装方法を学びます。グラフィックスやアニメーションだけでなく、WebSocketを用いた通信、Google Chart Tools、スマートフォン向けのトピックまで幅広く扱います。日本語版では、パソコン向けのWebゲームをjQuery Mobileでモバイル向けに改造し、PhoneGapでネイティブアプリへ変換する方法について加筆しました。\n\r\n●本書で扱うアニメーションやゲーム（サンプルコードは「関連ファイル」タブページからダウンロード可）。\n\r\n翻訳者の相川氏のブログには、本書の追加情報や関連する技術情報が掲載されています。\r\n\n",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-528-3.gif",
+    "book_id": "9784873115283",
+    "url": "https://www.oreilly.co.jp/books/9784873115283/"
+}
