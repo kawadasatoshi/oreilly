@@ -1,0 +1,7 @@
+{
+    "title": "プログラミング Hive",
+    "description": "本書は、Hadoop上でSQLライクなクエリ操作を可能にするHiveについて、基礎から応用までを詳細に解説した書籍です。データ型とファイルフォーマット、またHiveQLのデータ定義、操作などの基礎的な事柄から、関数、ストリーミング、Thriftサービス、さらにAWSやHCatalogなどの応用まで、Hiveについて必要な事柄を豊富なサンプルとともにわかりやすく解説します。\r\n日本語版では、Microsoftの佐藤直生氏による「Windows Azure HDInsight Service」、Clouderaの嶋内翔氏による「Cloudera Impala」、「Hive 0.10 の新機能」、「HiveServer2」を追加。ビッグデータに関心のあるすべてのエンジニア、必携の一冊です。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-617-4.gif",
+    "book_id": "9784873116174",
+    "url": "https://www.oreilly.co.jp/books/9784873116174/"
+}
