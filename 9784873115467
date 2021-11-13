@@ -1,0 +1,7 @@
+{
+    "title": "Hadoop Hacks――プロフェッショナルが使う実践テクニック",
+    "description": "本書は、Hadoopの概要を理解した読者を対象に、Hadoopを実際に使いこなすためのテクニックとTipsをまとめた書籍です。システム構築/運用、アプリケーション開発など、Hadoopならではの特徴を使いこなすための方法から、HBase、Hive、Pig、Mahout、ZooKeeperなどサブプロジェクトについてのHackまで、幅広い内容をカバーしています。Hadoopの力を引き出すのに必要なツールとその使い方、また内部の動きを知るための方法、さらに先進的なテクニックなど、開発の現場で必要とされる74のテクニックを掲載しています。早くからHadoopに注目し、実際に活用してきた技術者によって執筆された本書は、Hadoopを自在に使いたいエンジニア必携の一冊です。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-546-7.gif",
+    "book_id": "9784873115467",
+    "url": "https://www.oreilly.co.jp/books/9784873115467/"
+}
