@@ -1,0 +1,7 @@
+{
+    "title": "入門 Sinatra――Web制作のためのシンプルなRuby DSL",
+    "description": "Webサイト、Webサービス、WebアプリケーションをRubyで作成するためのDSL、それがSinatraです。本書は、基本的なRubyのプログラミングを理解したプログラマが、Sinatraを使い始めるために必要な知識をコンパクトにまとめた書籍です。ルーティング、ビュー、キャッシュなどを使ったアプリケーションの書き方から、内部構造の解説や、サブクラス化を用いたModularスタイルのアプリケーションを解説。さらにはカスタムブログエンジンを例に、アプリケーション構築の全体を紹介します。なお本書はEbookのみの販売となります。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-559-7.gif",
+    "book_id": "9784873115597",
+    "url": "https://www.oreilly.co.jp/books/9784873115597/"
+}
