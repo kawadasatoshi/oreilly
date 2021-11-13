@@ -1,0 +1,7 @@
+{
+    "title": "JavaScriptリファレンス 第6版",
+    "description": "本書は、『JavaScript: The Definitive Guide, 6th Edition』の日本語版です。日本語版出版にあたり、言語解説部分とリファレンス部分に分け、本書はそのリファレンス部分をまとめたものです。\r\nJavaScriptを「コアJavaリファレンス」と「クライアントサイドJavaScriptリファレンス」に分けて解説します。ECMAScript 5（コア言語の最新バージョン）とHTML5（Webプラットフォームの最新バージョン）の両方を扱い、また位置情報技術の「Geolocation」や、ソケットに似た双方向ネットワーク接続を実現する「WebSocket」など、最新の情報についても解説します。改訂にあたり全面刷新した本書は、JavaScriptを使いこなしたいプログラマ必携の一冊です。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-553-5.gif",
+    "book_id": "9784873115535",
+    "url": "https://www.oreilly.co.jp/books/9784873115535/"
+}
