@@ -1,0 +1,7 @@
+{
+    "title": "CSS3の値、単位、色",
+    "description": "CSSにおける各プロパティの色、長さ、サイズの「値」と、それらの値を定めるための「単位」、またスタイルを作成するうえで大きな要素である「色」についてコンパクトに解説する書籍です。『セレクタ、詳細度、カスケード』と同様、\"CSS: The Definitive Guide 4th Edition\"（未刊行）の一部となるべく書かれたテキストを、コンパクトな分量で抽出し、簡便なテキストとしてまとめたものです。\r\nなお本書はEbook版のみの販売となります。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-626-6.gif",
+    "book_id": "9784873116266",
+    "url": "https://www.oreilly.co.jp/books/9784873116266/"
+}
