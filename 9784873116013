@@ -1,0 +1,7 @@
+{
+    "title": "Stormをはじめよう",
+    "description": "本書は、オープンソースの分散データ処理システムStormの概要を紹介する書籍です。Stormのバージョン0.7.1をベースに、スパウト、ボルトといったStormクラスタを構成する基本的な要素から、ローカルモードでの使用例、トポロジーの作成、スパウト、ボルトの実装、またNode.jsのバックエンドとして動作させる。さらに、PHPから他言語からStormを利用する例を解説します。なお本書はEbookのみの販売となります。\r\n",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-601-3.gif",
+    "book_id": "9784873116013",
+    "url": "https://www.oreilly.co.jp/books/9784873116013/"
+}
