@@ -1,0 +1,7 @@
+{
+    "title": "Web Audio API",
+    "description": "本書は、ウェブ・アプリケーション上で音を加工したり、合成したりできる高度なJavaScript API、Web Audio APIについて紹介する書籍です。このAPIは、最近のゲームエンジンが持つような能力や、デスクトップPCのオーディオ作成アプリケーションが備える一定度のミキシング、加工、フィルタリング機能を備えることを目的としています。Web Audio APIを使いこなすことで、ゲームからインタラクティブ・アプリケーション、高度な音楽作成アプリケーション、さらに可視化にも利用できるようになるでしょう。\r\nなお本書はEbookのみの販売となります。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-641-9.gif",
+    "book_id": "9784873116419",
+    "url": "https://www.oreilly.co.jp/books/9784873116419/"
+}
