@@ -1,0 +1,7 @@
+{
+    "title": "D3をはじめよう",
+    "description": "データ可視化のために作成されたJavaScriptベースのツールキット、「D3.js」の概説書です。D3の基礎となる、データセットの文脈によってコンテンツの要素を取扱う方法を学びます。ニューヨーク都市交通公社（MTA）の公開している実データに基づいて、HTML、Canvas、SVGを使った、豊富でグラフィカルなビジュアライゼーションの方法を知ることができるでしょう。なお本書はEbookのみの販売となります。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-597-9.gif",
+    "book_id": "9784873115979",
+    "url": "https://www.oreilly.co.jp/books/9784873115979/"
+}
