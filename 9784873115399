@@ -1,0 +1,7 @@
+{
+    "title": "HTML5 ファイルシステムAPI",
+    "description": "従来のWebアプリケーションでは対応できなかったファイルI/Oによる永続化を実現するべく策定されたHTML5 File APIを概説する書籍です。File APIが実装されたGoogle Chromeを例に、ストレージの使用法、ファイルの読み書き、ドラッグ&ドロップ、ディレクトリ操作、URLを使った参照、同期APIなどのトピックを紹介します。なお本書はEbookのみの販売となります。\r\n",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-539-9.gif",
+    "book_id": "9784873115399",
+    "url": "https://www.oreilly.co.jp/books/9784873115399/"
+}
