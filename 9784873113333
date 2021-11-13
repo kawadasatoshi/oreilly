@@ -1,0 +1,7 @@
+{
+    "title": "Ajax & Java――JavaプログラマのためのAjaxプライマー",
+    "description": "AjaxとJSP、Ajaxとタグライブラリ、AjaxとStruts、AjaxとJSF、GWTなど、JavaによるWebアプリケーションをAjax化するための各種アプローチを、サーバサイドとクライアントサイドの両方の具体的なコードを示しながら丁寧に解説します。Prototype、script.aculo.us、Dojo、Rico、DWR、GWTなど、Java WebアプリケーションでAjaxな技術を使ううえで必要になる主要な要素を網羅しており、Java Webアプリケーション開発者は必携です。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-333-3.gif",
+    "book_id": "9784873113333",
+    "url": "https://www.oreilly.co.jp/books/9784873113333/"
+}
