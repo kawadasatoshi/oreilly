@@ -1,0 +1,7 @@
+{
+    "title": "開眼！ JavaScript――言語仕様から学ぶJavaScriptの本質",
+    "description": "本書は、JavaScriptの言語的特性で知っておくべきポイントをまとめた書籍です。JavaScriptの「オブジェクト」の理解を中心に据えて、JavaScriptをひと通り経験した人が陥りがちな落とし穴であるthis、プロトタイプチェーン（継承）、スコープチェーンなどをサンプルを使って解説します。\r\nコンパクトにまとめているので、jQueryなどのライブラリは使っているが言語仕様にはあまり馴染みのない開発者や、他の言語を習得していてJavaScriptのクセを把握したいエンジニアが、短い時間でJavaScriptの特性についての理解を深めるのに最適な書籍です。「どのように」、「なぜ」動作するのかを知ることで、JavaScriptを心から理解する「目覚め」を体験してください。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-621-1.gif",
+    "book_id": "9784873116211",
+    "url": "https://www.oreilly.co.jp/books/9784873116211/"
+}
