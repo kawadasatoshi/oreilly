@@ -1,0 +1,7 @@
+{
+    "title": "Hadoop 第3版",
+    "description": "象本の名前で親しまれる『Hadoop』の第3版の登場です。今回の改訂では、Hadoop 0.22系、2.x系の記述を大幅加筆。次世代Hadoopの特徴であるYARN（Hadoop 2.x系におけるジョブ実行フレームワーク）やMapReduce 2について詳述しました。Hadoop1.x（旧0.20）の情報もカバーしているので、これまでのバージョンを使う新旧のユーザに対応しています。第3版の日本語版付録として、Clouderaの小林大輔氏による「最新の高可用性HDFSの紹介」を掲載。Hadoopの基礎から応用までを網羅し、最新の情報をカバーした本書は、Hadoopに関心のあるすべての開発者必携の一冊です。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-629-7.gif",
+    "book_id": "9784873116297",
+    "url": "https://www.oreilly.co.jp/books/9784873116297/"
+}
