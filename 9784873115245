@@ -1,0 +1,7 @@
+{
+    "title": "jQueryデスクトップリファレンス ",
+    "description": "クライアントサイドのJavaScriptライブラリであるjQueryのリファレンスをコンパクトな形式にまとめた書籍です。JavaScriptによるプログラミングを理解した読者に向けて、jQueryの概要、要素の操作、ドキュメント構造の変更、イベント、アニメーション、Ajaxといったトピックについて解説します。巻末にはクイックリファレンスを同梱。jQueryを使うプログラマであれば手元に置いておきたい書籍です。なお本書は『JavaScript 第6版』の一部を、独立したEbookとして再編集したもので、Ebookのみの販売となります。\r\n",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-524-5.gif",
+    "book_id": "9784873115245",
+    "url": "https://www.oreilly.co.jp/books/9784873115245/"
+}
