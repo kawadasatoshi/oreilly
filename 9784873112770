@@ -1,0 +1,7 @@
+{
+    "title": "入門 GNU Emacs 第3版",
+    "description": "20年以上の歴史を持つ人気エディタのEmacs。当初はUnix上でしか使うことができなかったEmacsですが、現在ではUnix/LinuxだけでなくWindowsやMac OS Xでも使われています。本書には、アイコンベースのツールバーなどEmacs 21以降で使えるようになった新しい機能の解説をはじめ、進化を続けるEmacsを効果的に使うためのTIPSが含まれています。これからEmacsを使いはじめる方だけでなく、パワーユーザにもお勧めです。知らなかった基本機能がきっと見つかるはず。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-277-0.gif",
+    "book_id": "9784873112770",
+    "url": "https://www.oreilly.co.jp/books/9784873112770/"
+}
