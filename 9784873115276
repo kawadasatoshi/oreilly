@@ -1,0 +1,7 @@
+{
+    "title": "HTML5 Canvas",
+    "description": "HTML5はWeb開発に革命をもたらすとも言われています。本書ではHTML5の機能で最も注目されているCanvasについて学びます。Canvasを使った2Dオブジェクトの描画、テキストレンダリング、画像・映像・音声処理、WebGLによる3Dアニメーション。これらすべてのトピックをインタラクティブなサンプルとともにわかりやすく解説します。Canvasの機能を最大限に引き出すためのアルゴリズムを扱っているので実践手法や応用力も身につきます。Canvas 2D APIのすべてを網羅しているのでリファレンスとしても好適です。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-527-6.gif",
+    "book_id": "9784873115276",
+    "url": "https://www.oreilly.co.jp/books/9784873115276/"
+}
