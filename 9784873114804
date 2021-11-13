@@ -1,0 +1,7 @@
+{
+    "title": "プログラミング Windows Azure",
+    "description": "Windows Azureの製品開発チームの主要メンバーによって書かれた本書はWindows Azureのプログラミングモデルとその要となるストレージサービスを使って、アプリケーションの構築、デプロイ、ホスティングから管理の方法までを解説する。Azureに関してはオンラインにドキュメント等も存在するが、Windows Azureの全容が1冊にまとめられている点が本書の魅力である。本書の前半では、アプリケーションコードの書き方と、それをWindows Azure上でホストするための方法について解説。後半では、データのストアやデータへのアクセスを、高いスケーラビリティと信頼性を持ちながら行うための機能について詳説している。Microsoftが提供するクラウドコンピューティング技術を読み解くWindows Azureの決定版解説書。",
+    "img": "https://www.oreilly.co.jp/books/images/picture978-4-87311-480-4.gif",
+    "book_id": "9784873114804",
+    "url": "https://www.oreilly.co.jp/books/9784873114804/"
+}
